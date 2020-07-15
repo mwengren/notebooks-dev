@@ -8,3 +8,6 @@ dependencies:
   - pandas
   - xarray
   - netCDF4
+  - pip
+  - pip:
+    - git+https://github.com/mwengren/notebooks-dev.git
