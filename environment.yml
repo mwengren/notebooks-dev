@@ -3,10 +3,17 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
+  - ckanapi
+  - condastats
+  - dask
+  - folium
+  - geojson
+  - geopandas
   - matplotlib
+  - netCDF4
   - numpy
   - pandas
+  - panel
+  - param
+  - shapely
   - xarray
-  - dask
-  - netCDF4
-  - condastats
